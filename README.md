@@ -41,6 +41,7 @@
 .
 ├── README.md
 ├── summary.md
+├── .gitignore
 ├── notebooks
 │   ├── 01_eda.ipynb
 │   ├── 02_pre.ipynb
