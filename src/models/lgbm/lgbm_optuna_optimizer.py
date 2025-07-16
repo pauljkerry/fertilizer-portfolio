@@ -1,6 +1,6 @@
 import optuna
 import math
-from src.models.lgb.lgbm_cv_trainer import LGBMCVTrainer
+from src.models.lgbm.lgbm_cv_trainer import LGBMCVTrainer
 
 
 def create_objective(
